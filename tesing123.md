@@ -1,0 +1,2 @@
+git@github.com:HarunaOrg/push-protection.git
+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
